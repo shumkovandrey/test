@@ -26,7 +26,4 @@ while isRunning:
 
 
     # erettert
-    # llk;l'l';'
-
-    #2222322
 
